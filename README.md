@@ -96,6 +96,7 @@ Também sou especialista em **Data Migration**: mais de **800 migrações entre 
 | Projeto | O que é | Stack |
 |:--|:--|:--|
 | [**jungle-wagering-processor**](https://github.com/gabrielcavalcant/jungle-wagering-processor) | Processador distribuído de apostas | Bun · NestJS · PostgreSQL · MikroORM · SQS (LocalStack) |
+| [**SAUCEDEMO-PLAYWRIGHT**](https://github.com/gabrielcavalcant/SAUCEDEMO-PLAYWRIGHT) | Testes end-to-end automatizados | TypeScript · Playwright |
 | [**motocenter-backend**](https://github.com/gabrielcavalcant/motocenter-backend) | Gestão de manutenção de motos: clientes, estoque e equipes | C# · .NET |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:035427&height=120&section=footer"/>
