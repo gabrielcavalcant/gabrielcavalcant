@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=3FB950&center=true&vCenter=true&width=640&lines=REST+APIs+com+Node.js%2C+NestJS+e+.NET;Processamento+ass%C3%ADncrono+e+filas;800%2B+migra%C3%A7%C3%B5es+de+dados+entre+plataformas;Automa%C3%A7%C3%A3o+com+IA%2C+n8n+e+Claude+Code)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/--gabrielcavalcante/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielcavalcantedev/)
 ![Sorocaba, SP](https://img.shields.io/badge/Sorocaba%2C%20SP-0D1117?style=for-the-badge&logo=googlemaps&logoColor=3FB950)
 
 </div>
